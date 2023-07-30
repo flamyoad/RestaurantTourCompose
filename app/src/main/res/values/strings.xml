@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantTourCompose</string>
+    <string name="back">Back</string>
+    <string name="favourite">Favourite</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="open_now">Open Now</string>
+    <string name="close_now">Closed Now</string>
+    <string name="address">Address</string>
+    <string name="overall_rating">Overall Rating</string>
+</resources>
